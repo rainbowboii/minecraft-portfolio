@@ -33,5 +33,14 @@
   <img src="models&textures/ra4.gif" width="20%" />
 </p>
 
+## SciFi BeeHive 3x3
+<p align="center">
+  <img src="models&textures/b1.png" width="30%" />
+  <img src="models&textures/b2.png" width="30%" />
+  <img src="models&textures/b3.png" width="30%" />
+  <img src="models&textures/beeHivea.gif" width="20%" />
+
+</p>
+
 
 
