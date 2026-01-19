@@ -72,6 +72,21 @@
   <img src="models&textures/FortuneModulea1.gif" width="20%" />
   <img src="models&textures/FortuneModulea2.gif" width="20%" />
 
+## DE Injector pack
+<p align="center">
+  <img src="models&textures/injector1.png" width="18%" />
+  <img src="models&textures/injector2.png" width="18%" />
+  <img src="models&textures/injector3.png" width="18%" />
+  <img src="models&textures/injector4.png" width="18%" />
+  <img src="models&textures/injector5.png" width="18%" />
+  <img src="models&textures/injector6.png" width="20%" />
+  <img src="models&textures/injector7.png" width="20%" />
+  <img src="models&textures/injector10.png" width="20%" />
+  <img src="models&textures/injector11.png" width="20%" />
+  <img src="models&textures/injectora1.gif" width="20%" />
+  <img src="models&textures/injectora3.gif" width="20%" />
+  <img src="models&textures/injectora2.gif" width="20%" />
+
 </p>
 
 
