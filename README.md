@@ -10,5 +10,7 @@
   <img src="models&textures/ldanim3.gif" width="20%" />
 </p>
 
+## DE Autocore
+
 
 
