@@ -54,5 +54,25 @@
 
 </p>
 
+## Thaum Matrix 1x1
+<p align="center">
+  <img src="models&textures/matrix1.png" width="20%" />
+  <img src="models&textures/matrixa1.gif" width="18%" />
+  <img src="models&textures/matrixa2.gif" width="18%" />
+  <img src="models&textures/matrixa3.gif" width="18%" />
+  <img src="models&textures/matrixa4.gif" width="18%" />
+
+</p>
+
+## Fortune Module 2x2
+<p align="center">
+  <img src="models&textures/fm1.png" width="30%" />
+  <img src="models&textures/fm3.png" width="30%" />
+  <img src="models&textures/fm2.png" width="30%" />
+  <img src="models&textures/FortuneModulea1.gif" width="20%" />
+  <img src="models&textures/FortuneModulea2.gif" width="20%" />
+
+</p>
+
 
 
