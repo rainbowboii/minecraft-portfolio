@@ -42,5 +42,17 @@
 
 </p>
 
+## Infinity Creator 2x2
+<p align="center">
+  <img src="models&textures/ic1.png" width="30%" />
+  <img src="models&textures/ic2.png" width="30%" />
+  <img src="models&textures/ic3.png" width="30%" />
+  <img src="models&textures/infinitycreatora1.gif" width="20%" />
+  <img src="models&textures/infinitycreatora2.gif" width="20%" />
+  <img src="models&textures/infinitycreatora3.gif" width="20%" />
+  <img src="models&textures/infinitycreatora4.gif" width="20%" />
+
+</p>
+
 
 
