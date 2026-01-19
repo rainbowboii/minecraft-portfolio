@@ -22,5 +22,16 @@
   <img src="models&textures/AutoCorea3.gif" width="20%" />
 </p>
 
+## Nuclear Reactor 5x5
+<p align="center">
+  <img src="models&textures/r1.png" width="30%" />
+  <img src="models&textures/r2.png" width="30%" />
+  <img src="models&textures/r3.png" width="30%" />
+  <img src="models&textures/ra1.gif" width="20%" />
+  <img src="models&textures/ra2.gif" width="20%" />
+  <img src="models&textures/ra3.gif" width="20%" />
+  <img src="models&textures/ra4.gif" width="20%" />
+</p>
+
 
 
