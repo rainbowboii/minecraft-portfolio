@@ -89,5 +89,10 @@
 
 </p>
 
+## Quantum Carrier
+<p align="center">
+  <img src="models&textures/QC1.png" width="30%" />
+  <img src="models&textures/QC.gif" width="30%" />
 
+</p>
 
